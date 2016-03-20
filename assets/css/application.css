@@ -1,0 +1,11 @@
+#alertBox {
+  height: 0px;
+  visibility: hidden;
+}
+
+.movie {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  width:400px;
+  padding:20px;
+}
